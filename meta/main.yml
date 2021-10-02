@@ -1,4 +1,5 @@
 galaxy_info:
+  role_name: quickhttp
   author: Ajil Raju
   description: Role to setup a quick and simple HTTP server
 
