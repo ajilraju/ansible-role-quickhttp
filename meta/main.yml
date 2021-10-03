@@ -1,3 +1,4 @@
+---
 galaxy_info:
   role_name: quickhttp
   author: Ajil Raju
@@ -7,7 +8,6 @@ galaxy_info:
 
   min_ansible_version: 2.9
 
-
   platforms:
     - name: debian
       versions:
@@ -16,4 +16,3 @@ galaxy_info:
   galaxy_tags: [simplehttp, quickhttp, http, python]
 
 dependencies: []
-  
