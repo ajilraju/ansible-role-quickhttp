@@ -1,3 +1,5 @@
+[![Build Status](https://app.travis-ci.com/ajilraju/ansible-role-quickhttp.svg?branch=main)](https://app.travis-ci.com/ajilraju/ansible-role-quickhttp)
+
 Ansible Role: QuickHTTP
 =========
 
