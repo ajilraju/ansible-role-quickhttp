@@ -31,7 +31,7 @@ Including an example of how to use your role (for instance, with variables passe
 
     - hosts: ec2
       roles:
-         - { role: ajilraju.quickhttp, web_user: 42 }
+         - { role: ajilraju.quickhttp, web_user: web }
 
 License
 -------
